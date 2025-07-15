@@ -6,7 +6,7 @@
 
 - 📚 MSc Student of Artificial Intelligence at Nanyang Technological University (NTU)
 
-- 📚 Internship at Parallel and Distributed Computing Lab (PDCL), NTU
+- 📚 Research Assistant at Parallel and Distributed Computing Lab (PDCL), NTU
 
 - 🔎 Research interest
   - **Machine Learning System:** Efficient LLM (RAG & MoE) Inference; Scheduling; LLM for HPC
