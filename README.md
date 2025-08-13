@@ -16,6 +16,8 @@
   
 - 📫 Reaching me by Tristan_Yan[AT]outlook[DOT]com
 
-- “創業維艱，緬懷諸先烈；守成不易，莫徒務近功。”
+- “和平、奮鬥、救中國” —— 孫文
+
+- “國父遺言，不要忘記，革命尚未成功，同志仍須努力。”
 
 [![My Skills](https://skillicons.dev/icons?i=python,go,linux,docker,grafana,kubernetes,git,vim,aws,gcp,azure,markdown,latex)](https://skillicons.dev)
