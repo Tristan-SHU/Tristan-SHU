@@ -4,9 +4,9 @@
   <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=YANthinkn&show_icons=true&theme=algolia" />
 </a>
 
-- 📚 MSc Student of Artificial Intelligence at Nanyang Technological University (NTU)
+- 📚 Incoming PhD Student at Nanyang Technological University (NTU)
 
-- 📚 Research Assistant at Parallel and Distributed Computing Lab (PDCL), NTU
+- 📖 Research Assistant at Parallel and Distributed Computing Lab (PDCL), NTU
 
 - 🔎 Research interest
   - **Machine Learning System:** Efficient LLM (RAG & MoE) Inference; Scheduling; LLM for HPC
@@ -15,8 +15,6 @@
 - 📑 Updating academic-related contents on my [Blog](https://tristanyan.cn)
   
 - 📫 Reaching me by Tristan_Yan[AT]outlook[DOT]com
-
-- “和平、奮鬥、救中國” —— 孫文
 
 - “國父遺言，不要忘記，革命尚未成功，同志仍須努力。”
 
