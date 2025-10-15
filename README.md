@@ -4,7 +4,7 @@
   <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=YANthinkn&show_icons=true&theme=algolia" />
 </a>
 
-- 📚 Incoming PhD Student at Nanyang Technological University (NTU)
+- 📚 PhD Student (Batch 2025) at Nanyang Technological University (NTU)
 
 - 📖 Research Assistant at Parallel and Distributed Computing Lab (PDCL), NTU
 
