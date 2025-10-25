@@ -9,8 +9,8 @@
 - 📖 Research Assistant at Parallel and Distributed Computing Lab (PDCL), NTU
 
 - 🔎 Research interest
-  - **Machine Learning System:** Efficient LLM (RAG & MoE) Inference; Scheduling; LLM for HPC
-  - **Distributed System:** Federated Learning & Unlearning
+  - **Machine Learning System:** Efficient LLM Scheduling & Inference
+  - **Distributed System & Security:** Federated Learning & LLM Unlearning
 
 - 📑 Updating academic-related contents on my [Blog](https://tristanyan.cn)
   
