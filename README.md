@@ -1,12 +1,12 @@
-## 👋 Hi, I'm Tristan Yan
+## 👋 Hi, I'm Xinyu Yan
 
-<a href="https://github.com/YANthinkn?tab=repositories" >
-  <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=YANthinkn&show_icons=true&theme=algolia" />
+<a href="https://github.com/Tristan-SHU?tab=repositories" >
+  <img align=right width="45%" src="https://github-readme-stats-fast.vercel.app/api?username=Tristan-SHU&show_icons=true&theme=algolia" />
 </a>
 
 - 📚 PhD Student (Batch 2025) at Nanyang Technological University (NTU)
 
-- 📖 Research Assistant at Parallel and Distributed Computing Lab (PDCL), NTU
+- 📖 Lab: Parallel and Distributed Computing Lab (PDCL), NTU
 
 - 🔎 Research interest
   - **Machine Learning System:** Efficient LLM Scheduling & Inference
