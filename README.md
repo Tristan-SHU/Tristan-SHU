@@ -6,7 +6,9 @@
 
 - 📚 PhD Student (Batch 2025) at Nanyang Technological University (NTU), Singapore
 
-- 📖 Parallel and Distributed Computing Lab (PDCL), NTU
+- 📖 Affiliation:
+  - Parallel and Distributed Computing Lab (PDCL), NTU
+  - Alibaba-NTU Singapore Joint Research Institute (JRI)
 
 - 🔎 Research Interest:
   - **Machine Learning System:** Efficient LLM Scheduling & Inference
