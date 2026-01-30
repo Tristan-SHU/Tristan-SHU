@@ -8,11 +8,12 @@
 
 - 📖 Affiliation:
   - Parallel and Distributed Computing Lab (PDCL), NTU
-  - Alibaba-NTU Singapore Joint Research Institute (JRI)
+  - Alibaba-NTU Global e-Sustainability CorpLab (ANGEL)
 
 - 🔎 Research Interest:
+  - **Trustworthy AI:** LLM Safety, LLM Unlearning & Federated Learning
+
   - **Machine Learning System:** Efficient LLM Scheduling & Inference
-  - **Distributed System & Security:** Federated Learning & LLM Unlearning
 
 - 📑 Updating academic-related contents on my [Blog](https://tristanyan.cn)
   
