@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Xinyu Yan
+## 👋 Hi, I'm Xinyu (Tristan) Yan 
 
 <a href="https://github.com/Tristan-SHU?tab=repositories" >
   <img align=right width="45%" src="https://github-readme-stats-fast.vercel.app/api?username=Tristan0318&show_icons=true&theme=algolia" />
@@ -11,7 +11,7 @@
   - Alibaba-NTU Global e-Sustainability CorpLab (ANGEL)
 
 - 🔎 Research Interest:
-  - **Trustworthy AI:** LLM Safety, LLM Unlearning & Federated Learning
+  - **Trustworthy AI:** Machine Unlearning & Deepfake Detection
 
   - **Machine Learning System:** Efficient LLM Scheduling & Inference
 
