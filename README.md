@@ -19,6 +19,6 @@
   
 - 📫 Reaching me by Tristan_Yan[AT]outlook[DOT]com
 
-- 「吹いていった風の後を／追いかけた 眩しい午後」
+- 「循此苦旅 以达繁星 / Per aspera ad astra」
 
 [![My Skills](https://skillicons.dev/icons?i=python,go,linux,docker,grafana,kubernetes,git,vim,aws,gcp,azure,markdown,latex)](https://skillicons.dev)
