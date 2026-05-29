@@ -13,7 +13,7 @@
 - 🔎 Research Interest:
   - **Trustworthy AI:** Machine Unlearning & Deepfake Detection
 
-  - **Machine Learning System:** Efficient LLM Scheduling & Inference
+  - **Efficient AI:** Efficient LLM Scheduling & Inference, Edge Computing
 
 - 📑 Updating academic-related content on my [Homepage](https://tristan0318.github.io/)
   
