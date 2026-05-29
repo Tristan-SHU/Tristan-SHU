@@ -7,7 +7,7 @@
 - 📚 PhD Student (Batch 2025) at Nanyang Technological University (NTU), Singapore
 
 - 📖 Affiliation:
-  - Parallel and Distributed Computing Lab (PDCL), NTU
+  - Midori Lab, Nanyang Technological University
   - Alibaba-NTU Global e-Sustainability CorpLab (ANGEL)
 
 - 🔎 Research Interest:
@@ -15,7 +15,7 @@
 
   - **Machine Learning System:** Efficient LLM Scheduling & Inference
 
-- 📑 Updating academic-related contents on my [Blog](https://tristanyan.cn)
+- 📑 Updating academic-related content on my [Homepage](https://tristan0318.github.io/)
   
 - 📫 Reaching me by Tristan_Yan[AT]outlook[DOT]com
 
